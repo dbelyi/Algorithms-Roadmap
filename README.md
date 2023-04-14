@@ -38,15 +38,42 @@
 
 ### Binary Search (0 / 7)
 
-
+| Status 	|                                                   Problem                                                   	| Difficulty 	| Code 	|
+|:------:	|:-----------------------------------------------------------------------------------------------------------:	|:----------:	|:----:	|
+|    ❌   	|                        [Binary Search](https://leetcode.com/problems/binary-search/)                        	|    Easy    	|      	|
+|    ❌   	|                   [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)                   	|   Medium   	|      	|
+|    ❌   	|                  [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)                  	|   Medium   	|      	|
+|    ❌   	| [Find Minimum In Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) 	|   Medium   	|      	|
+|    ❌   	|       [Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)       	|   Medium   	|      	|
+|    ❌   	|           [Time Based Key Value Store](https://leetcode.com/problems/time-based-key-value-store/)           	|   Medium   	|      	|
+|    ❌   	|          [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)          	|    Hard    	|      	|
 
 ### Sliding Window (0 / 6)
 
-
+| Status 	|                                                             Problem                                                             	| Difficulty 	| Code 	|
+|:------:	|:-------------------------------------------------------------------------------------------------------------------------------:	|:----------:	|:----:	|
+|    ❌   	|                [Best Time to Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                	|    Easy    	|      	|
+|    ❌   	| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) 	|   Medium   	|      	|
+|    ❌   	|        [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)        	|   Medium   	|      	|
+|    ❌   	|                          [Permutation In String](https://leetcode.com/problems/permutation-in-string/)                          	|   Medium   	|      	|
+|    ❌   	|                       [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)                       	|    Hard    	|      	|
+|    ❌   	|                         [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)                         	|    Hard    	|      	|
 
 ### Linked List (0 / 11)
 
-
+| Status 	|                                               Problem                                               	| Difficulty 	| Code 	|
+|:------:	|:---------------------------------------------------------------------------------------------------:	|:----------:	|:----:	|
+|    ❌   	|              [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)              	|    Easy    	|      	|
+|    ❌   	|           [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)           	|    Easy    	|      	|
+|    ❌   	|                [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                	|    Easy    	|      	|
+|    ❌   	|                     [Reorder List](https://leetcode.com/problems/reorder-list/)                     	|   Medium   	|      	|
+|    ❌   	| [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) 	|   Medium   	|      	|
+|    ❌   	|    [Copy List With Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)    	|   Medium   	|      	|
+|    ❌   	|                  [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                  	|   Medium   	|      	|
+|    ❌   	|        [Find The Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)        	|   Medium   	|      	|
+|    ❌   	|                        [LRU Cache](https://leetcode.com/problems/lru-cache/)                        	|   Medium   	|      	|
+|    ❌   	|             [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)             	|    Hard    	|      	|
+|    ❌   	|         [Reverse Nodes In K Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)         	|    Hard    	|      	|
 
 ### Trees (0 / 15)
 
