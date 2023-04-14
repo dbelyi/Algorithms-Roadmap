@@ -77,11 +77,31 @@
 
 ### Trees (0 / 15)
 
-
+| Status 	|                                                                        Problem                                                                        	| Difficulty 	| Code 	|
+|:------:	|:-----------------------------------------------------------------------------------------------------------------------------------------------------:	|:----------:	|:----:	|
+|    ❌   	|                                        [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)                                        	|    Easy    	|      	|
+|    ❌   	|                              [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                              	|    Easy    	|      	|
+|    ❌   	|                                   [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)                                   	|    Easy    	|      	|
+|    ❌   	|                                      [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)                                      	|    Easy    	|      	|
+|    ❌   	|                                                 [Same Tree](https://leetcode.com/problems/same-tree/)                                                 	|    Easy    	|      	|
+|    ❌   	|                                   [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)                                   	|    Easy    	|      	|
+|    ❌   	|            [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)            	|   Medium   	|      	|
+|    ❌   	|                         [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)                         	|   Medium   	|      	|
+|    ❌   	|                               [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)                               	|   Medium   	|      	|
+|    ❌   	|                           [Count Good Nodes In Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)                           	|   Medium   	|      	|
+|    ❌   	|                               [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)                               	|   Medium   	|      	|
+|    ❌   	|                             [Kth Smallest Element In a Bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)                             	|   Medium   	|      	|
+|    ❌   	| [Construct Binary Tree From Preorder And Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) 	|   Medium   	|      	|
+|    ❌   	|                              [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)                              	|    Hard    	|      	|
+|    ❌   	|                     [Serialize And Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)                     	|    Hard    	|      	|
 
 ### Tries (0 / 3)
 
-
+| Status 	|                                                         Problem                                                         	| Difficulty 	| Code 	|
+|:------:	|:-----------------------------------------------------------------------------------------------------------------------:	|:----------:	|:----:	|
+|    ❌   	|                 [Implement Trie Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree/)                 	|   Medium   	|      	|
+|    ❌   	| [Design Add And Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) 	|   Medium   	|      	|
+|    ❌   	|                             [Word Search II](https://leetcode.com/problems/word-search-ii/)                             	|    Hard    	|      	|
 
 ### Backtracking (0 / 9)
 
