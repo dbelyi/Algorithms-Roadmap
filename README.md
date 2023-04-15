@@ -1,6 +1,6 @@
-# Algorithms-Roadmap (1 / 150)
+# Algorithms-Roadmap (2 / 150)
 
-### Arrays & Hashing (1 / 9)
+### Arrays & Hashing (2 / 9)
 
 | Status 	|                                           Problem                                           	| Difficulty 	| Code 	|
 |:------:	|:-------------------------------------------------------------------------------------------:	|:----------:	|:----:	|
