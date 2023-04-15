@@ -4,8 +4,8 @@
 
 | Status 	|                                           Problem                                           	| Difficulty 	| Code 	|
 |:------:	|:-------------------------------------------------------------------------------------------:	|:----------:	|:----:	|
-|    ✅   	|           [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)           	|    Easy    	|   [swift](solutions/containsDuplicate.swift)   	|
-|    ✅   	|                [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                	|    Easy    	|   [swift](solutions/validAnagram.swift)   	|
+|    ✅   	|           [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)           	|    Easy    	|      	|
+|    ✅   	|                [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                	|    Easy    	|   [swift](https://leetcode.com/problems/valid-anagram/solutions/3418801/2-best-swift-solutions-easy-to-understand/)   	|
 |    ❌   	|                      [Two Sum](https://leetcode.com/problems/two-sum/)                      	|    Easy    	|      	|
 |    ❌   	|               [Group Anagrams](https://leetcode.com/problems/group-anagrams/)               	|   Medium   	|      	|
 |    ❌   	|      [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)      	|   Medium   	|      	|
