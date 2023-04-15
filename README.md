@@ -4,7 +4,7 @@
 
 | Status 	|                                           Problem                                           	| Difficulty 	| Code 	|
 |:------:	|:-------------------------------------------------------------------------------------------:	|:----------:	|:----:	|
-|    ✅   	|           [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)           	|    Easy    	|      	|
+|    ✅   	|           [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)           	|    Easy    	|   [swift](https://leetcode.com/problems/contains-duplicate/solutions/3419018/3-best-swift-solutions-easy-to-understand/)   	|
 |    ✅   	|                [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                	|    Easy    	|   [swift](https://leetcode.com/problems/valid-anagram/solutions/3418801/2-best-swift-solutions-easy-to-understand/)   	|
 |    ❌   	|                      [Two Sum](https://leetcode.com/problems/two-sum/)                      	|    Easy    	|      	|
 |    ❌   	|               [Group Anagrams](https://leetcode.com/problems/group-anagrams/)               	|   Medium   	|      	|
