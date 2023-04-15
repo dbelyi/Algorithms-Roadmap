@@ -1,12 +1,12 @@
-# Algorithms-Roadmap (2 / 150)
+# Algorithms-Roadmap (3 / 150)
 
-### Arrays & Hashing (2 / 9)
+### Arrays & Hashing (3 / 9)
 
 | Status 	|                                           Problem                                           	| Difficulty 	| Code 	|
 |:------:	|:-------------------------------------------------------------------------------------------:	|:----------:	|:----:	|
 |    ✅   	|           [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)           	|    Easy    	|   [swift](https://leetcode.com/problems/contains-duplicate/solutions/3419018/3-best-swift-solutions-easy-to-understand/)   	|
 |    ✅   	|                [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                	|    Easy    	|   [swift](https://leetcode.com/problems/valid-anagram/solutions/3418801/2-best-swift-solutions-easy-to-understand/)   	|
-|    ❌   	|                      [Two Sum](https://leetcode.com/problems/two-sum/)                      	|    Easy    	|      	|
+|    ✅   	|                      [Two Sum](https://leetcode.com/problems/two-sum/)                      	|    Easy    	|   [swift](https://leetcode.com/problems/two-sum/solutions/3419246/3-best-swift-solutions-easy-to-understand/)   	|
 |    ❌   	|               [Group Anagrams](https://leetcode.com/problems/group-anagrams/)               	|   Medium   	|      	|
 |    ❌   	|      [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)      	|   Medium   	|      	|
 |    ❌   	| [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) 	|   Medium   	|      	|
