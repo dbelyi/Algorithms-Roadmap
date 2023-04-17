@@ -1,6 +1,6 @@
-# Algorithms-Roadmap (5 / 150)
+# Algorithms-Roadmap (6 / 150)
 
-### Arrays & Hashing (5 / 9)
+### Arrays & Hashing (6 / 9)
 
 | Status 	|                                           Problem                                           	| Difficulty 	| Code 	|
 |:------:	|:-------------------------------------------------------------------------------------------:	|:----------:	|:----:	|
@@ -9,7 +9,7 @@
 |    ✅   	|                      [Two Sum](https://leetcode.com/problems/two-sum/)                      	|    Easy    	|   [swift](https://leetcode.com/problems/two-sum/solutions/3419246/3-best-swift-solutions-easy-to-understand/)   	|
 |    ✅   	|               [Group Anagrams](https://leetcode.com/problems/group-anagrams/)               	|   Medium   	|   [swift](https://leetcode.com/problems/group-anagrams/solutions/3423036/4-best-swift-solutions-easy-to-understand/)   	|
 |    ✅   	|      [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)      	|   Medium   	|   [swift](https://leetcode.com/problems/top-k-frequent-elements/solutions/3426297/2-simple-swift-solutions-easy-to-understand/)   	|
-|    ❌   	| [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) 	|   Medium   	|      	|
+|    ✅   	| [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) 	|   Medium   	|   [swift](https://leetcode.com/problems/product-of-array-except-self/solutions/3426752/2-best-swift-solutions-easy-to-understand/)   	|
 |    ❌   	|                 [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                 	|   Medium   	|      	|
 |    ❌   	|    [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) 🔒   	|   Medium   	|      	|
 |    ❌   	| [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) 	|   Medium   	|      	|
