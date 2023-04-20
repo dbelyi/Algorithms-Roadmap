@@ -1,4 +1,4 @@
-# Algorithms-Roadmap (8 / 150)
+# Algorithms-Roadmap (9 / 150)
 
 ### Arrays & Hashing (8 / 9)
 
@@ -14,11 +14,11 @@
 |    ❌   	|    [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) 🔒   	|   Medium   	|      	|
 |    ✅   	| [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) 	|   Medium   	|   [swift](https://leetcode.com/problems/longest-consecutive-sequence/solutions/3430669/simple-swift-on-solution-easy-to-understand/)   	|
 
-### Two Pointers (0 / 5)
+### Two Pointers (1 / 5)
 
 | Status 	|                                               Problem                                               	| Difficulty 	| Code 	|
 |:------:	|:---------------------------------------------------------------------------------------------------:	|:----------:	|:----:	|
-|    ❌   	|                 [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                 	|    Easy    	|      	|
+|    ✅   	|                 [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                 	|    Easy    	|   [swift](https://leetcode.com/problems/valid-palindrome/solutions/3437348/2-best-swift-solutions-easy-to-understand/)   	|
 |    ❌   	| [Two Sum II Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) 	|   Medium   	|      	|
 |    ❌   	|                             [3Sum](https://leetcode.com/problems/3sum/)                             	|   Medium   	|      	|
 |    ❌   	|        [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)        	|   Medium   	|      	|
