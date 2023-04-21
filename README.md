@@ -1,4 +1,4 @@
-# Algorithms-Roadmap (11 / 150)
+# Algorithms-Roadmap (12 / 150)
 
 ### Arrays & Hashing (8 / 9)
 
@@ -14,14 +14,14 @@
 |    ❌   	|    [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) 🔒   	|   Medium   	|      	|
 |    ✅   	| [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) 	|   Medium   	|   [swift](https://leetcode.com/problems/longest-consecutive-sequence/solutions/3430669/simple-swift-on-solution-easy-to-understand/)   	|
 
-### Two Pointers (3 / 5)
+### Two Pointers (4 / 5)
 
 | Status 	|                                               Problem                                               	| Difficulty 	| Code 	|
 |:------:	|:---------------------------------------------------------------------------------------------------:	|:----------:	|:----:	|
 |    ✅   	|                 [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                 	|    Easy    	|   [swift](https://leetcode.com/problems/valid-palindrome/solutions/3437348/2-best-swift-solutions-easy-to-understand/)   	|
 |    ✅   	| [Two Sum II Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) 	|   Medium   	|   [swift](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/solutions/3437444/simple-swift-solution-easy-to-understand/)   	|
 |    ✅   	|                             [3Sum](https://leetcode.com/problems/3sum/)                             	|   Medium   	|   [swift](https://leetcode.com/problems/3sum/solutions/3437982/best-swift-solution-easy-to-understand/)   	|
-|    ❌   	|        [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)        	|   Medium   	|      	|
+|    ✅   	|        [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)        	|   Medium   	|   [swift](https://leetcode.com/problems/container-with-most-water/solutions/3441091/best-swift-solution-easy-to-understand/)   	|
 |    ❌   	|              [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)              	|    Hard    	|      	|
 
 ### Stack (0 / 7)
