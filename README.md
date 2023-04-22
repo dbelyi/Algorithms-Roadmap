@@ -1,4 +1,4 @@
-# Algorithms-Roadmap (13 / 150)
+# Algorithms-Roadmap (14 / 150)
 
 ### Arrays & Hashing (8 / 9)
 
@@ -24,11 +24,11 @@
 |    ✅   	|        [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)        	|   Medium   	|   [swift](https://leetcode.com/problems/container-with-most-water/solutions/3441091/best-swift-solution-easy-to-understand/)   	|
 |    ✅   	|              [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)              	|    Hard    	|   [swift](https://leetcode.com/problems/trapping-rain-water/solutions/3443541/best-swift-solution-easy-to-understand/)   	|
 
-### Stack (0 / 7)
+### Stack (1 / 7)
 
 | Status 	|                                               Problem                                               	| Difficulty 	| Code 	|
 |:------:	|:---------------------------------------------------------------------------------------------------:	|:----------:	|:----:	|
-|    ❌   	|                [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                	|    Easy    	|      	|
+|    ✅   	|                [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                	|    Easy    	|   [swift](https://leetcode.com/problems/valid-parentheses/solutions/3443865/best-swift-solution-easy-to-understand/)   	|
 |    ❌   	|                        [Min Stack](https://leetcode.com/problems/min-stack/)                        	|   Medium   	|      	|
 |    ❌   	| [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) 	|   Medium   	|      	|
 |    ❌   	|             [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)             	|   Medium   	|      	|
